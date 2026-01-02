@@ -1,6 +1,6 @@
 // components/shared/header.tsx
 import Link from "next/link";
-import { Navbar } from "./Navbar";
+import { Navbar } from "./navbar";
 import { CartButton } from "@/components/shop/card-button";
 
 export const Header = () => {
